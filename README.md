@@ -1,4 +1,2 @@
 # Travis-CI
-#This is my test change
-
-#Another
+[![Build Status](https://travis-ci.org/Thisuru/Travis-CI.svg?branch=master)](https://travis-ci.org/Thisuru/Travis-CI)
